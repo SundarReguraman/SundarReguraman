@@ -2,8 +2,9 @@
 
 <h1>👋 Hi, I'm Sundar Reguraman</h1>
 
-<p>First-year Engineering Student | ECE @ SRM Institute of Science and Technology</p>
-<p>Aspiring Software Engineer | Building AI-driven projects and exploring software development 💻🚀</p>
+<p>Second-year Engineering Student | B.Tech in Electronics and Communication Engineering @ SRM Institute of Science and Technology</p>
+<p>BS in Data Science and Applications @ IIT Madras</p>
+<p>Aspiring Software & Hardware Engineer | Building AI-driven projects, exploring VLSI & Chip Design 💻🔌🚀</p>
 
 </div>
 
@@ -12,8 +13,7 @@
 <div align="center">
 
 ### 🌱 Current Focus
-**FANDOM** - AI-based Celebrity Fan Engagement for Personalized 1-on-1 Interaction  
-Developing MVP by August 2026
+Exploring **VLSI & Chip Design** alongside AI/ML and Full-Stack Software Development
 
 </div>
 
@@ -22,7 +22,12 @@ Developing MVP by August 2026
 <div align="center">
 
 ### 🛠️ Skills & Tech Stack
+
+**Software & Data:**  
 🐍 Python &nbsp; | &nbsp; 💾 SQL &nbsp; | &nbsp; 🌐 HTML &nbsp; | &nbsp; 🎨 CSS &nbsp; | &nbsp; ⚡ JavaScript
+
+**Core Electronics & Hardware:**  
+🔌 Digital Logic Design &nbsp; | &nbsp; 🔬 Solid State Devices &nbsp; | &nbsp; 🖥️ Computer Organization & Architecture
 
 </div>
 
@@ -31,10 +36,10 @@ Developing MVP by August 2026
 <div align="center">
 
 ### 🎯 Goals
-🚀 Build a functional MVP of FANDOM  by Aug 2026  
-💡 Apply for Big Tech internships (Summer 2027)  
-🤖 Learn advanced Python, AI/ML, and Web development  
-🏆 Secure a software engineering role at a top-tier tech company
+🚀 Build and ship impactful AI & Full-Stack projects  
+🔌 Deepen expertise in VLSI, Chip Design, and Computer Architecture  
+💡 Secure a Summer 2027 Tech Internship  
+🏆 Build a strong career bridging intelligent software and modern hardware systems
 
 </div>
 
@@ -43,7 +48,7 @@ Developing MVP by August 2026
 <div align="center">
 
 ### 📫 Connect with me
-📧 <a href="mailto:reguramansundar@gmail.com">reguramansundar@gmail.com</a> &nbsp; | &nbsp; 💼 <a href="https://www.linkedin.com/in/sundar-reguraman-373a01277/">LinkedIn</a> &nbsp; | &nbsp; 👨‍💻 <a href="https://codolio.com/profile/Sundar_R">Codolio</a>
+📧 <a href="mailto:reguramansundar@gmail.com">reguramansundar@gmail.com</a> &nbsp; | &nbsp; 💼 <a href="https://www.linkedin.com/in/sundar-reguraman/">LinkedIn</a> &nbsp; | &nbsp; 👨‍💻 <a href="https://codolio.com/profile/Sundar_R">Codolio</a>
 
 </div>
 
