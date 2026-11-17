@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Sundar Reguraman</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sundar+Reguraman+%F0%9F%91%8B;B.Tech+ECE+%40+SRMIST+%7C+BS+Data+Science+%40+IITM;Exploring+VLSI%2C+Chip+Design+%26+AI+Systems" alt="Typing SVG" />
 
 <p>Second-year Engineering Student | B.Tech in Electronics and Communication Engineering @ SRM Institute of Science and Technology</p>
 <p>BS in Data Science and Applications @ IIT Madras</p>
